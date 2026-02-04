@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hii gd evening 
 how are you
 what are you doing
 hiiiiii
+=======
+hii gd evening 
+>>>>>>> parent of df863d0 (new line added in menu.txt)
